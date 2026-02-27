@@ -1,6 +1,6 @@
 # Implementation-of-Transfer-Learning
 
-## Aim
+## Aim 
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
 Image classification is a core task in computer vision where the objective is to categorize an image into one of several predefined classes. Training deep neural networks from scratch requires large datasets and extensive computational resources. To overcome this, Transfer Learning allows us to use a pre-trained model (such as VGG-19 trained on ImageNet) and fine-tune it for our specific dataset.
